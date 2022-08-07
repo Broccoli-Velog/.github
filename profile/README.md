@@ -13,3 +13,5 @@
 - [FE - Axios 사용 에러](./axios.error.md)
 
 ### 후기
+
+- @unchaptered [개별 팀 프로젝트 - Broccoli-Velog](https://velog.io/@unchaptered_til/%EA%B0%9C%EB%B3%84-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Broccoli-Velog)
